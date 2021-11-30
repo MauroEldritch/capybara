@@ -13,4 +13,4 @@ A dockerized lab is provided for testing purposes.
 ## Presentations
 |#| Date | Conference |  Link to Video | Link to Slides |
 |---|---|---|---|---|
-|1|AGO-2021|DEFCON 29 Adversary Village| - | https://docs.google.com/presentation/d/13rn2RU52tO17crnPSCJ9ZztOlEH1J8des8lzDjmsBxU/edit?usp=sharing |
+|1|AGO-2021|DEFCON 29 Adversary Village| https://www.youtube.com/watch?v=Co516kuQXrs | https://docs.google.com/presentation/d/13rn2RU52tO17crnPSCJ9ZztOlEH1J8des8lzDjmsBxU/edit?usp=sharing |
