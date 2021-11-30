@@ -4,7 +4,7 @@ WORKDIR /usr/src/app
 COPY Gemfile ./
 RUN bundle install
 RUN apt update
-RUN apt install nano -y
+RUN apt install nano curl -y
 RUN mkdir /root/Desktop
 COPY . /usr/src/app/
 CMD sleep infinity

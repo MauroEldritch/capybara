@@ -6,3 +6,5 @@ gem 'rspotify'
 gem 'mediawiki_api'
 gem 'colorize'
 gem 'yt'
+gem 'discordrb'
+gem 'async-websocket', "0.8.0"

