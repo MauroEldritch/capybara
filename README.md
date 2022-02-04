@@ -14,3 +14,4 @@ A dockerized lab is provided for testing purposes.
 |#| Date | Conference |  Link to Video | Link to Slides |
 |---|---|---|---|---|
 |1|AGO-2021|DEFCON 29 Adversary Village| https://www.youtube.com/watch?v=Co516kuQXrs | https://docs.google.com/presentation/d/13rn2RU52tO17crnPSCJ9ZztOlEH1J8des8lzDjmsBxU/edit?usp=sharing |
+|2|2021|Texas Cyber Summit| - | https://docs.google.com/presentation/d/1SaOVc18rYuzu96eIIAuS1SA5m8KPdmDV7S3VjI4DXQI/edit#slide=id.p3 |
